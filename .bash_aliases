@@ -1,3 +1,4 @@
+alias his='history'
 alias ll='ls -l'
 alias la='ls -la'
 alias lt='ls -lt'
